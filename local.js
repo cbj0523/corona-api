@@ -23,7 +23,7 @@ const getLocalTotal = new Promise((resolve, reject) => {
                 accumulatedsum: accumulatedsum,
                 onSeperate: onSeperate,
                 healed: healed,
-                deaths: deaths
+                death: deaths
             }
             datas.push(localdata);
         }
