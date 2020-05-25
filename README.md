@@ -3,7 +3,7 @@ http://ncov.mohw.go.kr/ 보건복지부 사이트를 파싱하는 API 입니다.
 
 ## 사용법
 > 1. 레포지토리를 클론한 후 yarn 명령어를 통해 dependencies를 설치합니다.
-2. yarn start 를 통해 테스트 서버를 가동합니다.
+> 2. yarn start 를 통해 테스트 서버를 가동합니다.
 
 ## API 정보
 
