@@ -1,0 +1,17 @@
+{
+  "name": "corona-api",
+  "description": "Republic of Korea-Only Corona API",
+  "author": "Team-Koreal / (http://wolsite.dothome.co.kr/)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
