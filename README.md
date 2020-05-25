@@ -17,3 +17,6 @@ http://ncov.mohw.go.kr/ 보건복지부 사이트를 파싱하는 API 입니다.
 > * healedsum : 전날대비 완치자 증감수
 > * death : 사망자 수
 > * deathsum : 전날대비 사망자 증감수
+
+## 데모버전 릴리즈
+https://rok-corona19-api.herokuapp.com/
